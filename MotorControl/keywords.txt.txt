@@ -1,0 +1,7 @@
+# MotorControl library keywords
+MotorControl     KEYWORD1
+begin            KEYWORD2
+getDistance      KEYWORD2
+setMotorSpeed    KEYWORD2
+calibrateESC     KEYWORD2
+resetMotorAndLEDs KEYWORD2
